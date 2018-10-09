@@ -1,10 +1,10 @@
 # ProjPixian-GDPR-to-IITC
-## Function功能
+## Function 功能
 
 converts GDPR data to IITC draw-tools link.
 将GDPR数据转化为IITC-draw-tool链接。
 
-## Instruction
+## Instruction 指南
 All you need from you GDPR data is game_log.tsv, copy it and paste at the the folder with this tool.
 你只需要game_log.tsv文件，将其复制粘贴到本程序的同一目录下。
 
