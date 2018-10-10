@@ -4,9 +4,9 @@
 
 converts GDPR data to IITC draw-tools link.
 ## Instruction 
-1. What you actually need from here is to download UPCV_Generator.exe and keep it at any folder you like. Please note that .exe version only works on Windows. If you wish to run it on MacOS/Linux, please download UPCV_Generator.py and run it with Python3.
+1. For Win10 users, what you actually need from here is to download UPCV_Generator.exe and keep it at any folder you like. If you wish to run it on MacOS/Linux or if your Windows machine reports that the file is not executable, please download UPCV_Generator.py and run it with Python3.
 
-2. All you need from you GDPR data is game_log.tsv, copy it and paste at the the folder with this tool, override the one with same name.
+2. All you need from you GDPR data is "game_log.tsv", copy it and paste at the the folder with this tool, override the one with same name.
 
 3. Then run this tool and follow instructions in the console.
 
