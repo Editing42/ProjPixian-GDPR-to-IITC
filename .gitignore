@@ -1,0 +1,11 @@
+# Python pre-compilation
+__pycache__
+*.pyc
+
+# Generated Output
+UPC.txt
+UPV.txt
+
+# Editor Scraps
+*.swp
+*~
